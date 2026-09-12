@@ -1,3 +1,3 @@
 ##This is the demo file
 
-This a feature branch example master
+This a feature branch example
