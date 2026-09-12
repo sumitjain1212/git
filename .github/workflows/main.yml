@@ -1,6 +1,6 @@
 name: Testing github action
 on: workflow_dispatch
-Jobs:
+jobs:
    job1:
      runs-on: ubuntu-latest
      steps:
